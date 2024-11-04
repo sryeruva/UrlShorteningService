@@ -21,7 +21,7 @@ A simple URL shortening service built using ASP.NET Core. This service allows us
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/UrlShortener.git
+   [git clone https://github.com/yourusername/UrlShortener.git](https://github.com/sryeruva/UrlShorteningService.git)
    cd UrlShortener
 2. dotnet restore
 3. dotnet run
