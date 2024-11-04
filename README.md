@@ -31,7 +31,7 @@ The API will be accessible at https://localhost:7055/api/UrlShortener.
 
 Design Choices for the URL Shortening Service
 1.	Modeling with Classes:
-	The UrlMapping class is used to represent the mapping between the original long URL and its shortened version. This class contains properties for the short ID, long URL, access count, and the full short URL for easy retrieval.
+	The UrlMapping class is used to represent the mapping between the original long URL and its shortened version. This class contains properties for the short ID, long URL and the full short URL for easy retrieval.
 2.	In-Memory Storage:
 	A ConcurrentDictionary<string, UrlMapping> is utilized to store the mappings in memory. This choice allows for thread-safe access to the data structure, making it suitable for handling multiple concurrent requests. However, it's important to note that this approach will lose all mappings if the application restarts, which may not be acceptable for a production-level service.
 3.	Short ID Generation:
