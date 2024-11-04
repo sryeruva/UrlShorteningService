@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "UrlShortener.Controllers.UrlShortenerController",
+    "Method": "GetLongUrl",
+    "RelativePath": "api/UrlShortener/{short_Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "short_Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UrlShortener.Controllers.UrlShortenerController",
+    "Method": "ShortenUrl",
+    "RelativePath": "api/UrlShortener/shorten",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "longUrl",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

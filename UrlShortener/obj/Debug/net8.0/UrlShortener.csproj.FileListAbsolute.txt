@@ -1,0 +1,65 @@
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\appsettings.Development.json
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\appsettings.json
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\UrlShortener.exe
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\UrlShortener.deps.json
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\UrlShortener.runtimeconfig.json
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\UrlShortener.dll
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\UrlShortener.pdb
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\Rest API\UrlShortener\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.csproj.AssemblyReference.cache
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.AssemblyInfoInputs.cache
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.AssemblyInfo.cs
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.csproj.CoreCompileInputs.cache
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\staticwebassets.build.json
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\staticwebassets.development.json
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.UrlShortener.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.build.UrlShortener.props
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UrlShortener.props
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UrlShortener.props
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\staticwebassets.pack.json
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.styles.css
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShort.46B0166A.Up2Date
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.dll
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\refint\UrlShortener.dll
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.pdb
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\UrlShortener.genruntimeconfig.cache
+D:\projects\Rest API\UrlShortener\obj\Debug\net8.0\ref\UrlShortener.dll
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\appsettings.Development.json
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\appsettings.json
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\UrlShortener.exe
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\UrlShortener.deps.json
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\UrlShortener.runtimeconfig.json
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\UrlShortener.dll
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\UrlShortener.pdb
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\UrlShortener\UrlShortener\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.csproj.AssemblyReference.cache
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.AssemblyInfoInputs.cache
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.AssemblyInfo.cs
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.csproj.CoreCompileInputs.cache
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.sourcelink.json
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\staticwebassets.build.json
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\staticwebassets.development.json
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.UrlShortener.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.build.UrlShortener.props
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UrlShortener.props
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UrlShortener.props
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\staticwebassets.pack.json
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\scopedcss\bundle\UrlShortener.styles.css
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShort.46B0166A.Up2Date
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.dll
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\refint\UrlShortener.dll
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.pdb
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\UrlShortener.genruntimeconfig.cache
+D:\projects\UrlShortener\UrlShortener\obj\Debug\net8.0\ref\UrlShortener.dll
